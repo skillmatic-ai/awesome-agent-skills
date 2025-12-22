@@ -48,26 +48,18 @@ except:
     tagline_font = ImageFont.load_default()
     badge_font = ImageFont.load_default()
 
-# Add main title - start after emoji to avoid white rectangle
+# Add main title - emoji removed to avoid rendering issues
 title = "Awesome Agent Skills"
-emoji = "🎯"
 
-# Calculate positions
+# Calculate position - centered
 title_bbox = draw.textbbox((0, 0), title, font=title_font)
 title_width = title_bbox[2] - title_bbox[0]
-emoji_bbox = draw.textbbox((0, 0), emoji, font=title_font)
-emoji_width = emoji_bbox[2] - emoji_bbox[0]
-
-total_width = emoji_width + 20 + title_width
-start_x = (WIDTH - total_width) // 2
+title_x = (WIDTH - title_width) // 2
 title_y = 180
 
-# Draw emoji
-draw.text((start_x, title_y), emoji, font=title_font, embedded_color=True)
-
 # Draw title with shadow effect for better contrast
-draw.text((start_x + emoji_width + 20 + 2, title_y + 2), title, fill="#000000", font=title_font)
-draw.text((start_x + emoji_width + 20, title_y), title, fill=TEXT_COLOR, font=title_font)
+draw.text((title_x + 2, title_y + 2), title, fill="#000000", font=title_font)
+draw.text((title_x, title_y), title, fill=TEXT_COLOR, font=title_font)
 
 # Add tagline
 tagline = "The definitive resource for Agent Skills"
