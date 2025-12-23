@@ -65,6 +65,7 @@ This architecture delivers:
 ### 📰 Key Concepts & Articles
 
 - [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - The original announcement from Anthropic Engineering
+- [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) - How generalist agents use skills for efficiency
 - [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - 17-minute analysis of why Skills matter for AI development
 - [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - Comparison of Skills and Model Context Protocol architectures
 - [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Understanding configuration standards (SKILL.md, AGENTS.md)
@@ -153,6 +154,7 @@ This architecture delivers:
 
 ### 🧠 Advanced Engineering
 
+- [Claude Agent Skills: A First Principles Deep Dive](https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/) - Comprehensive analysis of the internal architecture
 - [I finally CRACKED Claude Agent Skills](https://www.youtube.com/watch?v=kFpLzCVLA20) - Engineering breakdown: Skills vs MCP vs Subagents
 - [Claude Agent Skills](https://www.youtube.com/watch?v=9XaprFRNTlc) - 1-hour deep dive into domain-specific AI expertise
 - <a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank" rel="noopener noreferrer">Context engineering techniques</a>
