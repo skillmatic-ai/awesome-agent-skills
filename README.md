@@ -93,6 +93,7 @@ This architecture delivers:
 - [Amp](https://ampcode.com/) - Next-gen AI coding assistant ([docs](https://ampcode.com/manual#agent-skills))
 - [Goose](https://block.github.io/goose/) - Open source AI agent framework ([docs](https://block.github.io/goose/extensions))
 - [Letta](https://www.letta.com/) - Build stateful LLM agents with memory ([docs](https://docs.letta.com/letta-code))
+- [Gemini CLI](https://geminicli.com) - Google's solution for bringing Gemini into the terminal ([docs](https://geminicli.com/docs/cli/skills/))
 
 ### 📦 Ready-to-Use Skill Libraries
 
