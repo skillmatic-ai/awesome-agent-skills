@@ -117,6 +117,7 @@ This architecture delivers:
 ### 🏪 Skill Marketplaces
 - [SkillsMP](https://skillsmp.com/) - Agent Skills marketplace for Claude Code/Codex (discover, install, and share skills)
 - [Skillstore](https://skillstore.io/) - Curated, security-audited Agent Skills marketplace for Claude Code and Codex
+- [Skills Directory](https://www.skillsdirectory.org/) - Directory for finding popular Agent Skills
 
 ## 🏗️ Phase 3: Build & Integrate
 
