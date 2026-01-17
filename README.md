@@ -42,9 +42,9 @@ This architecture delivers:
 
 - [Start Here](#-start-here) - Introduction to the concepts
 - [Phase 1: Learn the Fundamentals](#-phase-1-learn-the-fundamentals) - Articles and videos to get started
-- [Phase 2: Use Existing Skills](#-phase-2-use-existing-skills) - Platforms and ready-to-use libraries
-- [Phase 3: Build & Integrate](#-phase-3-build--integrate) - Create your own skills and tools
-- [Phase 4: Master & Research](#-phase-4-master--research) - Advanced engineering and theory
+- [Phase 2: Use Existing Skills](#%EF%B8%8F-phase-2-use-existing-skills) - Platforms and ready-to-use libraries
+- [Phase 3: Build & Integrate](#%EF%B8%8F-phase-3-build--integrate) - Create your own skills and tools
+- [Phase 4: Benchmarks & Research](#-phase-4-benchmarks--research) - Advanced engineering and theory
 - [Frequently Asked Questions](#-frequently-asked-questions) - Common questions answered
 - [Community & Contributing](#-community--contributing) - Join the movement
 
