@@ -94,6 +94,7 @@ This architecture delivers:
 - [Amp](https://ampcode.com/) - Next-gen AI coding assistant ([docs](https://ampcode.com/manual#agent-skills))
 - [Goose](https://block.github.io/goose/) - Open source AI agent framework ([docs](https://block.github.io/goose/extensions))
 - [Letta](https://www.letta.com/) - Build stateful LLM agents with memory ([docs](https://docs.letta.com/letta-code))
+- [Roo Code](https://roocode.com/) - AI dev team through a VSCode extension and cloud agents ([docs](https://docs.roocode.com/features/skills))
 
 ### 📦 Ready-to-Use Skill Libraries
 
