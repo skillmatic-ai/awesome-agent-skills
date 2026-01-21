@@ -23,8 +23,6 @@ Agent Skills are modular, standardized `SKILL.md` packages that give agents on-d
 
 Key topics: `agent-skills` · `ai-agents` · `skill-md` · `progressive-disclosure` · `context-management` · `agent-architecture` · `mcp`.
 
-New to Agent Skills: [agentskills.io](https://agentskills.io).
-
 ## Start Here
 
 If you are new to Agent Skills, start with these quick primers.
