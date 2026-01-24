@@ -21,7 +21,7 @@ Curated, high-quality resources for building and using Agent Skills across moder
 
 Agent Skills are modular, standardized `SKILL.md` packages that give agents on-demand capabilities via progressive disclosure: lightweight metadata can load early, full instructions load only when relevant, and supporting resources are accessed when needed.
 
-Key topics: `agent-skills` · `ai-agents` · `skill-md` · `progressive-disclosure` · `context-management` · `agent-architecture` · `mcp`.
+`agent-skills` · `ai-agents` · `skill-md` · `progressive-disclosure` · `context-management` · `agent-architecture` · `mcp`.
 
 ## Start Here
 
@@ -35,20 +35,20 @@ If you are new to Agent Skills, start with these quick primers.
 
 Concepts, comparisons, and explainers to build a solid mental model.
 
-### Key Concepts and Articles
+### Key Articles
 
-- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Article: Original announcement from Anthropic Engineering.
-- [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - Video: Why skills matter for agent development.
-- [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - Article: Comparison of Agent Skills and Model Context Protocol.
-- [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Article: Overview of SKILL.md, AGENTS.md, and related standards.
-- [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) - Article: How frameworks apply the skills pattern.
+- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Original announcement from Anthropic Engineering.
+- [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - Comparison of Agent Skills and Model Context Protocol.
+- [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Overview of SKILL.md, AGENTS.md, and related standards.
+- [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) - How frameworks apply the skills pattern.
 
 ### Video Introductions
 
-- [Don't Build Agents, Build Skills Instead](https://www.youtube.com/watch?v=CEvIs9y1uog) - Video: Anthropic talk on skills as a scalable abstraction.
-- [Claude Agent Skills Tutorial and Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - Video: Intro tutorial and hands-on demo.
-- [Claude's new Agent Skills](https://www.youtube.com/watch?v=VRzkafNIdgI) - Video: One-minute overview.
-- [Claude Code Skills built me an AI Agent Team](https://www.youtube.com/watch?v=OdtGN27LchE) - Video: Extended beginner guide.
+- [Claude's new Agent Skills](https://www.youtube.com/watch?v=VRzkafNIdgI) - One-minute overview.
+- [Don't Build Agents, Build Skills Instead](https://www.youtube.com/watch?v=CEvIs9y1uog) - Anthropic talk on skills as a scalable abstraction.
+- [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - Why skills matter for agent development.
+- [Claude Agent Skills Tutorial and Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - Intro tutorial and hands-on demo.
+- [Claude Code Skills built me an AI Agent Team](https://www.youtube.com/watch?v=OdtGN27LchE) - Extended beginner guide.
 
 ## Phase 2: Use Existing Skills
 
@@ -72,14 +72,15 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 #### Top Picks
 
-- [Anthropic skills](https://github.com/anthropics/skills) - Library: Official skills catalog from Anthropic.
-- [OpenAI skills](https://github.com/openai/skills) - Library: Official skills catalog from OpenAI.
-- [Hugging Face skills](https://github.com/huggingface/skills) - Library: Community skills catalog with broad compatibility.
-- [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) - Directory: Curated list of Claude skills.
-- [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) - Directory: Skill collection for specialized capabilities.
+- [Anthropic skills](https://github.com/anthropics/skills) - Official skills catalog from Anthropic.
+- [OpenAI skills](https://github.com/openai/skills) - Official skills catalog from OpenAI.
+- [Vercel skills](https://skills.sh/vercel-labs/agent-skills) - Collection of skills reflecting best practices in web development from Vercel.
+- [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 
 #### More Collections
 
+- [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) - Curated list of Claude skills.
+- [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) - Skill collection for specialized capabilities.
 - [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - Multi-agent collaboration skills.
 - [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Pydantic AI integration skills.
 - [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) - Skills for DSPy-based workflows.
@@ -87,11 +88,12 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated Agent Skills collection.
 - [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Freeact skill library.
 
-### Skill Marketplaces
+### Skill Marketplaces & directories
 
 - [SkillsMP](https://skillsmp.com/) - Marketplace for discovering and sharing Agent Skills.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
+- [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
 
 ## Phase 3: Build and Integrate
 
