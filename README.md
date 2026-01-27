@@ -1,6 +1,6 @@
 # Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated, high-quality resources for building and using Agent Skills across modern AI agent platforms.
+Curated resources for building and using Agent Skills.
 
 <div align="center">
   <a href="https://agentskills.io">
