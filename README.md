@@ -62,6 +62,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Cursor](https://cursor.com/) - AI-powered editor with native skills integration ([docs](https://cursor.com/docs/context/skills)).
 - [VS Code](https://code.visualstudio.com/) - Editor with Agent Skills support ([docs](https://code.visualstudio.com/docs/copilot/customization/agent-skills)).
 - [GitHub Copilot](https://github.com/features/copilot) - Coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills)).
+- [Manus](https://manus.im/features/agent-skills) - Autonomous AI agent, now supporting Agent Skills ([blog](https://manus.im/blog/manus-skills))
 - [OpenCode](https://opencode.ai/) - AI development tool with built-in Agent Skills support ([docs](https://opencode.ai/docs/skills/)).
 - [Amp](https://ampcode.com/) - AI coding assistant with Agent Skills support ([docs](https://ampcode.com/manual#agent-skills)).
 - [Goose](https://block.github.io/goose/) - Open source agent framework with extensions support ([docs](https://block.github.io/goose/extensions)).
