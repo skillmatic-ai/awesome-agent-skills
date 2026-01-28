@@ -88,6 +88,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [ponderous-dustiness314/awesome-claude-skills](https://github.com/ponderous-dustiness314/awesome-claude-skills) - Document editing, data analysis, and project management skills.
 - [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated Agent Skills collection.
 - [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Freeact skill library.
+- [sstklen/infinite-gratitude](https://github.com/sstklen/infinite-gratitude) - Multi-agent research skill with 10 parallel agents and real case studies.
 
 ### Skill Marketplaces & directories
 
