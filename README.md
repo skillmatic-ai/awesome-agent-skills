@@ -29,7 +29,6 @@ If you are new to Agent Skills, start with these quick primers.
 
 - [What are skills](https://agentskills.io/what-are-skills) - Guide: Beginner-friendly introduction to Agent Skills.
 - [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - Guide: Quick start for enabling skills in Claude.
-- [Agent Skills Review](https://www.youtube.com/watch?v=tGpeWM7gOlA) - Video: Short feature highlight.
 
 ## Phase 1: Learn the Fundamentals
 
@@ -49,6 +48,9 @@ Concepts, comparisons, and explainers to build a solid mental model.
 - [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - Why skills matter for agent development.
 - [Claude Agent Skills Tutorial and Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - Intro tutorial and hands-on demo.
 - [Claude Code Skills built me an AI Agent Team](https://www.youtube.com/watch?v=OdtGN27LchE) - Extended beginner guide.
+
+### Courses
+- [Agent Skills with Anthropic](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/) - Short course from DeepLearning.AI
 
 ## Phase 2: Use Existing Skills
 
