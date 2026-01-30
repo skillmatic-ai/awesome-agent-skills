@@ -79,6 +79,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [OpenAI skills](https://github.com/openai/skills) - Official skills catalog from OpenAI.
 - [Vercel skills](https://skills.sh/vercel-labs/agent-skills) - Collection of skills reflecting best practices in web development from Vercel.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
+- [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
 
 #### More Collections
 
