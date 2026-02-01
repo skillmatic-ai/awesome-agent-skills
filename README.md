@@ -127,7 +127,8 @@ Guides and tools for authoring, validating, and distributing skills.
 - [kylehughes/the-unofficial-swift-concurrency-migration-skill](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) - Skill-style guide for Swift concurrency migrations.
 - [gapmiss/obsidian-plugin-skill](https://github.com/gapmiss/obsidian-plugin-skill) - Skill package for Obsidian plugin development.
 - [frmoretto/stream-coding](https://github.com/frmoretto/stream-coding) - Stream-coding methodology reference.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion/tree/main/packages/skills) - Skill package that define best practices for working in Remotion projects. 
+- [knot0-com/vibe-testing](https://github.com/knot0-com/vibe-testing) - Pressure-test spec documents with LLM reasoning before writing code. Traces scenarios step-by-step against specs to find gaps, conflicts, and ambiguities.
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion/tree/main/packages/skills) - Skill package that define best practices for working in Remotion projects.
 
 #### Integration and Automation
 
