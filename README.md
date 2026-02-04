@@ -77,7 +77,9 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 - [Anthropic skills](https://github.com/anthropics/skills) - Official skills catalog from Anthropic.
 - [OpenAI skills](https://github.com/openai/skills) - Official skills catalog from OpenAI.
+- [Microsoft skills](https://github.com/microsoft/skills) - Skills for AI coding agents working with Azure SDKs and Microsoft AI Foundry.
 - [Vercel skills](https://skills.sh/vercel-labs/agent-skills) - Collection of skills reflecting best practices in web development from Vercel.
+- [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
 
