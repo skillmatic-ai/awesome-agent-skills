@@ -108,7 +108,8 @@ Guides and tools for authoring, validating, and distributing skills.
 
 ### How to Build Skills
 
-- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - Guide: Step-by-step instructions for authoring skills.
+- [A Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en) - Guide: comprehensively covers how to build, test, and distribute skills.
+- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - Article: Step-by-step instructions for authoring skills.
 - [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - Docs: API reference for implementing skills.
 - [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4) - Tutorial: Practical walkthrough for building custom skills.
 - [Claude Agent Skills Tutorial](https://www.youtube.com/watch?v=fOxC44g8vig) - Video: End-to-end walkthrough with examples.
