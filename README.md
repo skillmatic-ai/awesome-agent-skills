@@ -95,6 +95,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management skills for the full delivery lifecycle.
 - [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated Agent Skills collection.
 - [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Freeact skill library.
+- [raintree-technology/apple-hig-skills](https://github.com/raintree-technology/apple-hig-skills) - Apple Human Interface Guidelines as 14 agent skills for iOS, macOS, visionOS, watchOS, and tvOS.
 
 ### Skill Marketplaces & directories
 
