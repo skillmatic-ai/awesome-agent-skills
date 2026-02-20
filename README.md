@@ -162,10 +162,11 @@ Evaluation frameworks and deeper technical reading.
 
 ### Academic Papers
 
-- [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Paper: Security analysis of skill-file prompt injection risks.
-- [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Paper: Survey of MCP, Agent Cards, and related protocols.
-- [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) (2024) - Paper: Maintaining and improving skill libraries.
-- [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://arxiv.org/abs/2510.15863) (2024) - Paper: Learning transferable skills via abstraction.
+- [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670) (2026) - Benchmark consisting of 86 tasks across 11 domains
+- [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Security analysis of skill-file prompt injection risks.
+- [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Survey of MCP, Agent Cards, and related protocols.
+- [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) (2024) - Maintaining and improving skill libraries.
+- [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://arxiv.org/abs/2510.15863) (2024) - Learning transferable skills via abstraction.
 
 ## Frequently Asked Questions
 
