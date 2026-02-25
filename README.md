@@ -141,6 +141,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
+- [polaroteam/moltdj-skill](https://github.com/polaroteam/moltdj-skill) - AI music and podcast platform API skill for autonomous agents.
 
 ## Phase 4: Benchmarks and Research
 
