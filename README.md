@@ -104,6 +104,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [agentskill.sh](https://agentskill.sh) - Directory of 44k+ skills with two-layer security scanning and `/learn` installer.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
+- [TutuoAI](https://www.tutuoai.com/) - Agent-native marketplace for skills, tools, and workflow blueprints (machine-readable catalog).
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
 
 ## Phase 3: Build and Integrate
