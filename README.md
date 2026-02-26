@@ -142,6 +142,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
+- [PHY041/claude-skill-twitter](https://github.com/PHY041/claude-skill-twitter) - Three Twitter/X skills for account growth, keyword search, and content strategy using rnet (bypasses Cloudflare).
 
 ## Phase 4: Benchmarks and Research
 
