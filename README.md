@@ -142,6 +142,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
+- [discourse-openclaw](https://github.com/pranciskus/discourse-openclaw) - OpenClaw plugin for Discourse forum integration — 12 tools for reading, searching, filtering topics, finding unanswered questions, and creating posts.
 
 ## Phase 4: Benchmarks and Research
 
