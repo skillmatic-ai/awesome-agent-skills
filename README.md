@@ -131,6 +131,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 #### Development and Programming
 
+- [dragon1086/claude-skills](https://github.com/dragon1086/claude-skills) - Tool Advisor: Analyzes prompts and recommends optimal tools, skills, and orchestration patterns.
 - [kylehughes/the-unofficial-swift-concurrency-migration-skill](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) - Skill-style guide for Swift concurrency migrations.
 - [gapmiss/obsidian-plugin-skill](https://github.com/gapmiss/obsidian-plugin-skill) - Skill package for Obsidian plugin development.
 - [frmoretto/stream-coding](https://github.com/frmoretto/stream-coding) - Stream-coding methodology reference.
