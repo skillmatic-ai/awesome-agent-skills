@@ -97,6 +97,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management skills for the full delivery lifecycle.
 - [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated Agent Skills collection.
 - [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Freeact skill library.
+- [ai-evos/agent-skills](https://github.com/ai-evos/agent-skills) - 8 eval-verified operational domain skills for logistics, manufacturing, retail, and energy operations.
 
 ### Skill Marketplaces & directories
 
