@@ -45,7 +45,7 @@ Concepts, comparisons, and explainers to build a solid mental model.
 
 - [Claude's new Agent Skills](https://www.youtube.com/watch?v=VRzkafNIdgI) - One-minute overview.
 - [Don't Build Agents, Build Skills Instead](https://www.youtube.com/watch?v=CEvIs9y1uog) - Anthropic talk on skills as a scalable abstraction.
-- [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - Why skills matter for agent development.
+- [Intro to Agent Skills](https://x.com/antigravity/status/2028153290937061878) - By Google's Anti-Gravity team on X.
 - [Claude Agent Skills Tutorial and Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - Intro tutorial and hands-on demo.
 - [Claude Code Skills built me an AI Agent Team](https://www.youtube.com/watch?v=OdtGN27LchE) - Extended beginner guide.
 
