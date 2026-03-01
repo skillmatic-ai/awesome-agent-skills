@@ -143,6 +143,10 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
 
+#### Education and Learning
+
+- [Bhala-Srinivash/agent-tutor-skill](https://github.com/Bhala-Srinivash/agent-tutor-skill) - Cognitive science AI tutor with teaching loop, FSRS spaced repetition, and zero-hint quizzes.
+
 ## Phase 4: Benchmarks and Research
 
 Evaluation frameworks and deeper technical reading.
