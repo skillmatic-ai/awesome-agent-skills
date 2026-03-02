@@ -72,6 +72,10 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Letta](https://www.letta.com/) - Stateful LLM agents with memory ([docs](https://docs.letta.com/letta-code)).
 - [Roo Code](https://roocode.com/) - VS Code extension and cloud agents with skills integration ([docs](https://docs.roocode.com/features/skills)).
 
+### API Gateway Services
+
+- [SkillBoss](https://skillboss.co) - **Backed by OpenAI Startup Fund & Amazon**. Unified API for 100+ AI services with a single key. OpenAI-compatible endpoint with native integration for Claude Code, Cursor, Windsurf, Gemini CLI, and Codex ([docs](https://skillboss.co/docs)).
+
 ### Ready-to-Use Skill Libraries
 
 #### Top Picks
