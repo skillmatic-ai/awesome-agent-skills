@@ -85,19 +85,11 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
 
-#### More Collections
+#### Popular Collections
 
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
-- [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) - Curated list of Claude skills.
-- [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) - Skill collection for specialized capabilities.
-- [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - Multi-agent collaboration skills.
-- [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Pydantic AI integration skills.
-- [OmidZamani/dspy-skills](https://github.com/OmidZamani/dspy-skills) - Skills for DSPy-based workflows.
-- [ponderous-dustiness314/awesome-claude-skills](https://github.com/ponderous-dustiness314/awesome-claude-skills) - Document editing, data analysis, and project management skills.
-- [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management skills for the full delivery lifecycle.
-- [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated Agent Skills collection.
-- [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Freeact skill library.
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
 ### Skill Marketplaces & directories
 
@@ -150,8 +142,9 @@ Evaluation frameworks and deeper technical reading.
 
 ### Benchmarks and Evaluation
 
-- [huggingface/upskill](https://github.com/huggingface/upskill) - Upskill: Generate and evaluate agent skills for code agents.
-- [benchflow-ai/SkillsBench](https://github.com/benchflow-ai/SkillsBench) - Benchflow: Measuring skills performance on real workflows.
+- [huggingface/upskill](https://github.com/huggingface/upskill) - Library: Use Upskill to Generate and evaluate agent skills for code agents.
+- [benchflow-ai/SkillsBench](https://github.com/benchflow-ai/SkillsBench) - Library: Use Benchflow for Measuring skills performance on real workflows.
+- [Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills) - Blog: A guide for testing agent skills
 
 ### Advanced Engineering
 
