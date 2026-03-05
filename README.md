@@ -97,6 +97,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [ponderous-dustiness314/awesome-claude-skills](https://github.com/ponderous-dustiness314/awesome-claude-skills) - Document editing, data analysis, and project management skills.
 - [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management skills for the full delivery lifecycle.
 - [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated Agent Skills collection.
+- [Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills) - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks for discovery, strategy, delivery, SaaS metrics, PM career coaching, and AI product craft.
 - [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Freeact skill library.
 
 ### Skill Marketplaces & directories
