@@ -157,6 +157,7 @@ Evaluation frameworks and deeper technical reading.
 
 ### Academic Papers
 
+- [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448) (2026) - An open infrastructure designed to create, evaluate, and organize AI skills at scale
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670) (2026) - Benchmark consisting of 86 tasks across 11 domains
 - [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Security analysis of skill-file prompt injection risks.
 - [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Survey of MCP, Agent Cards, and related protocols.
