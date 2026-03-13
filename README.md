@@ -154,6 +154,8 @@ Evaluation frameworks and deeper technical reading.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Repository: Context-engineering reference materials.
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - Repository: System skill pattern reference.
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Repository: Techniques for building reusable skill knowledge.
+- [How to Design AI Agent Skills That Don't Fail](https://helloandy.net/skill-design-guide/) - Article: Empirical data on token saturation points, failure modes, and quality rubric for 8-dimension skill design.
+- [How to Build an OpenRouter Pipeline for Claude Tools](https://helloandy.net/openrouter-pipeline-guide/) - Article: Multi-step prompting pipeline with harness architecture for skill generation.
 
 ### Academic Papers
 
