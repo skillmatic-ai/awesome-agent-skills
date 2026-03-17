@@ -40,7 +40,7 @@ Concepts, comparisons, and explainers to build a solid mental model.
 - [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - Comparison of Agent Skills and Model Context Protocol.
 - [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Overview of SKILL.md, AGENTS.md, and related standards.
 - [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) - How frameworks apply the skills pattern.
-- [5 Agent Skill design patterns every ADK developer should know](https://x.com/GoogleCloudTech/status/2033953579824758855?s=20) - Guidance on how to structure the logic inside Agent Skills.
+- [5 Agent Skill design patterns every ADK developer should know](https://x.com/GoogleCloudTech/status/2033953579824758855?s=20) - How to structure the logic inside Agent Skills.
 
 ### Video Introductions
 
