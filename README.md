@@ -117,6 +117,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
+- [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) - Tool: Security scanner for AI Agent skills, plugins, and MCP servers with 39+ detection rules, AST taint tracking, and A-F grading.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
