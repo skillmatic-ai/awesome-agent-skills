@@ -41,6 +41,7 @@ Concepts, comparisons, and explainers to build a solid mental model.
 - [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Overview of SKILL.md, AGENTS.md, and related standards.
 - [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) - How frameworks apply the skills pattern.
 - [5 Agent Skill design patterns every ADK developer should know](https://x.com/GoogleCloudTech/status/2033953579824758855?s=20) - How to structure the logic inside Agent Skills.
+- [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378?s=20) - Lessons learned about using skills at Anthropic.
 
 ### Video Introductions
 
