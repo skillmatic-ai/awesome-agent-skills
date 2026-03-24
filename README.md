@@ -126,6 +126,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 #### Development and Programming
 
+- **[Wowo51/Sym (SymCLI)](https://github.com/Wowo51/Sym/tree/main/Skills/symcli-skill)** - Pure C# deterministic "System 2" mathematical reasoning and code analyzer skill to prevent LLM hallucination.
 - [kylehughes/the-unofficial-swift-concurrency-migration-skill](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) - Skill-style guide for Swift concurrency migrations.
 - [gapmiss/obsidian-plugin-skill](https://github.com/gapmiss/obsidian-plugin-skill) - Skill package for Obsidian plugin development.
 - [frmoretto/stream-coding](https://github.com/frmoretto/stream-coding) - Stream-coding methodology reference.
