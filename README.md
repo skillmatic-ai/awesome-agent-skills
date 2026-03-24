@@ -200,6 +200,11 @@ Treat skills like code: review them before using, avoid installing from untruste
 
 The most common approach is to version skills in Git (in a shared repo) and let your supported tools discover them from a standard directory.
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contributing
 
 Please read our [contribution guidelines](contributing.md) before submitting changes.
