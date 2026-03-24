@@ -131,6 +131,10 @@ Guides and tools for authoring, validating, and distributing skills.
 - [frmoretto/stream-coding](https://github.com/frmoretto/stream-coding) - Stream-coding methodology reference.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion/tree/main/packages/skills) - Skill package that define best practices for working in Remotion projects. 
 
+#### Security and Guardrails
+
+- [wd041216-bit/ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Agent-runtime security core with reusable `SKILL.md` assets for Claude Code, plus CLI scanning, secret redaction, and audit logging.
+
 #### Integration and Automation
 
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - Browser capability for agents.
