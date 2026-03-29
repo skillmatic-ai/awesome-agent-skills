@@ -137,6 +137,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data platform skill — 99 REST API endpoints, 9 MCP tools, HMAC webhooks, MPP pay-per-use. Tweet search, user lookup, follower extraction, trending topics. 33x cheaper than official X API.
 
 ## Phase 4: Benchmarks and Research
 
