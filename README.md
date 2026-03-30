@@ -137,6 +137,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
+- [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search) - Evidence-aware search and claim verification skill surface with CLI, MCP, Gemini, Claude Code, and Manus compatibility.
 
 ## Phase 4: Benchmarks and Research
 
