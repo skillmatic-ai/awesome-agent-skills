@@ -203,3 +203,4 @@ The most common approach is to version skills in Git (in a shared repo) and let 
 ## Contributing
 
 Please read our [contribution guidelines](contributing.md) before submitting changes.
+- [agent-cards/skill](https://github.com/agent-cards/skill) - Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools.
