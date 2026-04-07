@@ -137,6 +137,8 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
+- [sortlist/overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine: source 450M+ contacts, email + LinkedIn campaigns, JSON output, agent-native.
+- [sortlist/signals-cli](https://github.com/sortlist/signals-cli) - Intent signal monitoring: LinkedIn engagers, keyword posters, job changers, funding events, JSON output for agent pipelines.
 
 ## Phase 4: Benchmarks and Research
 
