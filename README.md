@@ -137,7 +137,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
 - [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
 - [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
-- [Vulnetix](https://github.com/Vulnetix/claude-code-plugin) - Plugin: Vulnerability intelligence and remediation skills for Claude Code — exploit analysis, fix proposals, CWSS scoring, and threat modeling via the Vulnetix VDB API.
+- [Vulnetix](https://github.com/Vulnetix/claude-code-plugin) - Plugin: Vulnerability intelligence and remediation skills for Claude Code — exploit analysis, fix proposals, scoring, and malware via the Vulnetix VDB API.
 
 ## Phase 4: Benchmarks and Research
 
