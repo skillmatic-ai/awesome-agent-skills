@@ -92,6 +92,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [uAI-solana/useful-ai-skills](https://github.com/uAI-solana/useful-ai-skills) - Skill file for Useful AI, a shared utility tool library. Agents dispatch data tasks in plain English and get structured output. 200+ tools, auto-generated every 30 minutes, no auth required.
 
 ### Skill Marketplaces & directories
 
