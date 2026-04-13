@@ -50,6 +50,7 @@ Concepts, comparisons, and explainers to build a solid mental model.
 - [Intro to Agent Skills](https://x.com/antigravity/status/2028153290937061878) - By Google's Anti-Gravity team on X.
 - [Claude Agent Skills Tutorial and Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - Intro tutorial and hands-on demo.
 - [Claude Code Skills built me an AI Agent Team](https://www.youtube.com/watch?v=OdtGN27LchE) - Extended beginner guide.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Courses
 - [Agent Skills with Anthropic](https://learn.deeplearning.ai/courses/agent-skills-with-anthropic/) - Short course from DeepLearning.AI
