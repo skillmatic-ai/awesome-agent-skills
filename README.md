@@ -9,6 +9,7 @@ Curated resources for building and using Agent Skills.
 </div>
 
 ## Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 - [What Are Agent Skills](#what-are-agent-skills)
 - [Start Here](#start-here)
 - [Phase 1: Learn the Fundamentals](#phase-1-learn-the-fundamentals)
