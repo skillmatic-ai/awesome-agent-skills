@@ -121,6 +121,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
+- [skill_miner](https://github.com/liaoandi/skill_miner) - Tool: Mine reusable skills from AI agent session history by analyzing sessions across Claude Code, Codex, OpenClaw, and Gemini CLI.
 
 ## Phase 4: Benchmarks and Research
 
