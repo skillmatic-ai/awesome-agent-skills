@@ -86,6 +86,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
+- [Nutrient document processing skills](https://github.com/PSPDFKit-labs/nutrient-agent-skill) - Production-grade document processing skills powered by Nutrient DWS: convert PDF/Office/images, OCR, extract text/tables/key-values, redact PII (pattern+AI), watermark, sign, merge/split/reorder pages, and form fill.
 
 #### Popular Collections
 
