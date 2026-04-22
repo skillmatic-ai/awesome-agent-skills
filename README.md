@@ -142,6 +142,7 @@ Evaluation frameworks and deeper technical reading.
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Repository: Techniques for building reusable skill knowledge.
 
 ### Academic Papers
+- [SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents](https://arxiv.org/abs/2604.17308) (2026) - A benchmark for evaluating autonomous agents' ability to discover, repair, and maintain skills over time
 - [Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills](https://arxiv.org/abs/2604.05333) (2026) - Enabling efficient inference in large skill libraries by constructing executable skill graphs
 - [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://arxiv.org/abs/2604.08377) (2026) - Aggregating user interactions to autonomously improve reusable skills
 - [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448) (2026) - An open infrastructure designed to create, evaluate, and organize AI skills at scale
