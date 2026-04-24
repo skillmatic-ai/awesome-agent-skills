@@ -131,6 +131,7 @@ Evaluation frameworks and deeper technical reading.
 - [huggingface/upskill](https://github.com/huggingface/upskill) - Library: Use Upskill to Generate and evaluate agent skills for code agents.
 - [benchflow-ai/SkillsBench](https://github.com/benchflow-ai/SkillsBench) - Library: Use Benchflow for Measuring skills performance on real workflows.
 - [Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills) - Blog: A guide for testing agent skills
+- [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) - Tool: CLI that benchmarks SKILL.md guidance docs against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
 
 ### Advanced Engineering
 
