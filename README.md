@@ -98,6 +98,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 - [SkillsMP](https://skillsmp.com/) - Marketplace for discovering and sharing Agent Skills.
 - [agentskill.sh](https://agentskill.sh) - Directory of 44k+ skills with two-layer security scanning and `/learn` installer.
+- [Remote OpenClaw](https://www.remoteopenclaw.com/skills) - Cross-agent skills directory with dedicated Claude, Codex, Hermes, and OpenClaw hubs, plus adjacent MCP and marketplace pages.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
