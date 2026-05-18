@@ -117,6 +117,7 @@ Guides and tools for authoring, validating, and distributing skills.
 ### Developer Tools
 
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
+- [Bilig WorkPaper](https://github.com/proompteng/bilig/tree/main/skills/bilig-workpaper) - Agent skill and MCP server for editing formula-backed WorkPaper JSON with recalculation and readback verification.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
