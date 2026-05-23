@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [heyneuron/flowhunt-skill](https://github.com/heyneuron/flowhunt-skill) - Automation discovery audit skill: 5-question workflow intake, audits Gmail/Calendar/Slack, produces a markdown report of automation opportunities. Install: `npx skills add heyneuron/flowhunt-skill`
 
 ### Skill Marketplaces & directories
 
