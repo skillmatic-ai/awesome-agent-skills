@@ -92,6 +92,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
+- [Alpha Insights](https://github.com/Ericyoung-183/alpha-insights) - Business research skill for Claude Code and Codex with consulting frameworks, evidence grading, stage gates, and HTML report generation.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
 ### Skill Marketplaces & directories
