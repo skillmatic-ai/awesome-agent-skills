@@ -93,6 +93,9 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [thebrierfox/yield-intelligence-skill](https://github.com/thebrierfox/yield-intelligence-skill) - Passive income portfolio analysis with live Treasury rates. ([free hosted MCP](https://api.intuitek.ai/yield/mcp))
+- [thebrierfox/moatmri-skill](https://github.com/thebrierfox/moatmri-skill) - AI disruption pressure analysis for competitive moat assessment. ([BYOK $29](https://ace-license-server-production.up.railway.app/byok/moatmri))
+- [thebrierfox/doc2math-skill](https://github.com/thebrierfox/doc2math-skill) - Document-to-mathematics formalization for structured knowledge extraction. ([BYOK $29](https://ace-license-server-production.up.railway.app/byok/doc2math))
 
 ### Skill Marketplaces & directories
 
