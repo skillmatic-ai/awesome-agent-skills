@@ -93,6 +93,8 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself/tree/main/skills/checkyourself) - Production-readiness diagnostics and guided remediation for AI-built apps.
+- [simongonzalezdc/web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) - Web typography workflow for readable, accessible front-end text.
 
 ### Skill Marketplaces & directories
 
