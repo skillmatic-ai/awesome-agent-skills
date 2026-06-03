@@ -85,6 +85,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Google Agent skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [Vercel skills](https://skills.sh/vercel-labs/agent-skills) - Collection of skills reflecting best practices in web development from Vercel.
 - [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
+- [Qdrant skills](https://github.com/qdrant/skills) - Agent skills for building with Qdrant vector search.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
 
