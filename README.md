@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [innovestrum/keelson](https://github.com/innovestrum/keelson) - A tracker-agnostic skill pack (adopt-keelson + tune-gates) that ports a disciplined, issue-driven agentic workflow into any repo; agents escalate when a change touches the original design, plan, or strategy.
 
 ### Skill Marketplaces & directories
 
