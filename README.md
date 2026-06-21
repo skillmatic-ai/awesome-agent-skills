@@ -116,6 +116,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 ### Developer Tools
 
+- [agent-skill-groups](https://github.com/go165/agent-skill-groups) - Tool: Scenario profile manager for switching local Agent Skills across Codex, Claude Code, OpenCode, and generic `SKILL.md` folders.
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
