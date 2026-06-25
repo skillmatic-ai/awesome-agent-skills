@@ -94,6 +94,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
+- [Linked-API/linkedin-skills](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation for AI agents.
 ### Skill Marketplaces & directories
 
 - [SkillsMP](https://skillsmp.com/) - Marketplace for discovering and sharing Agent Skills.
