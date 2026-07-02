@@ -86,6 +86,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Vercel skills](https://skills.sh/vercel-labs/agent-skills) - Collection of skills reflecting best practices in web development from Vercel.
 - [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet/tree/master/skills/hermes-tweet) - X/Twitter automation skill for Hermes Agent.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
 
 #### Popular Collections
