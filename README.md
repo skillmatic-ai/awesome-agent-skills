@@ -152,6 +152,7 @@ Evaluation frameworks and deeper technical reading.
 - [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Survey of MCP, Agent Cards, and related protocols.
 - [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) (2024) - Maintaining and improving skill libraries.
 - [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://arxiv.org/abs/2510.15863) (2024) - Learning transferable skills via abstraction.
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 
 ## Frequently Asked Questions
 
