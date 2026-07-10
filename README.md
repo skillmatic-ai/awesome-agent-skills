@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [mocasus/paleo](https://github.com/mocasus/paleo) - A collection of 6 token-saving skills for AI coding agents (compress output, trim context, budget caps, merge chatter, summarize tool output, compact JSON) — benchmarked median 53.8% fewer output tokens, zero quality loss. Install: `npx skills add mocasus/paleo`.
 
 ### Skill Marketplaces & directories
 
