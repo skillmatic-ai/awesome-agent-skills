@@ -91,6 +91,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 #### Popular Collections
 
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
+- [0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly/tree/main/skills) - Agent Skills for using Ontoly's deterministic Software Graph, MCP capabilities, and graph evidence in codebase analysis workflows.
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
