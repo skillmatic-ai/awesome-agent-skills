@@ -100,6 +100,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [agentskill.sh](https://agentskill.sh) - Directory of 44k+ skills with two-layer security scanning and `/learn` installer.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
+- [skillZs](https://skillzs.dev/) - Open Agent Skills directory with source-linked manuals, live install rankings, security audit context, and creation guides.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
 
 ## Phase 3: Build and Integrate
