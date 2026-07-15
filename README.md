@@ -87,6 +87,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
+- [LinkedIn & social media skills](https://github.com/sergebulaev/linkedin-skills) - Marketing skill bundles for LinkedIn, X, Instagram, YouTube, TikTok, Threads, and Facebook, with corpus-validated hook formulas and an AI-tell humanizer.
 
 #### Popular Collections
 
