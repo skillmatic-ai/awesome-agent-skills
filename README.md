@@ -117,6 +117,7 @@ Guides and tools for authoring, validating, and distributing skills.
 ### Developer Tools
 
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
+- [Codex Skin Pack Installer](https://github.com/ChannelerH/codex-skin-packs) - Skill: Install verified public-safe Codex desktop theme and skin packs with npx skills, validation, and restore guidance.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
