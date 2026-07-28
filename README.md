@@ -131,6 +131,7 @@ Evaluation frameworks and deeper technical reading.
 
 - [huggingface/upskill](https://github.com/huggingface/upskill) - Library: Use Upskill to Generate and evaluate agent skills for code agents.
 - [benchflow-ai/SkillsBench](https://github.com/benchflow-ai/SkillsBench) - Library: Use Benchflow for Measuring skills performance on real workflows.
+- [ClawBench](https://github.com/reacher-z/ClawBench) ([project](https://claw-bench.com/)) - Benchmark: Evaluates agent harnesses and skills-enabled workflows on 153 real-world tasks across 144 live websites, with replayable action, screenshot, HTTP, and agent-message evidence.
 - [Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills) - Blog: A guide for testing agent skills
 
 ### Advanced Engineering
