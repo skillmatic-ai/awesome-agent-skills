@@ -70,7 +70,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Manus](https://manus.im/features/agent-skills) - Autonomous AI agent, now supporting Agent Skills ([blog](https://manus.im/blog/manus-skills))
 - [OpenCode](https://opencode.ai/) - AI development tool with built-in Agent Skills support ([docs](https://opencode.ai/docs/skills/)).
 - [Amp](https://ampcode.com/) - AI coding assistant with Agent Skills support ([docs](https://ampcode.com/manual#agent-skills)).
-- [Goose](https://block.github.io/goose/) - Open source agent framework with extensions support ([docs](https://block.github.io/goose/extensions)).
+- [Goose](https://goose-docs.ai/) - Open source agent framework with extensions support ([docs](https://goose-docs.ai/extensions/)).
 - [Letta](https://www.letta.com/) - Stateful LLM agents with memory ([docs](https://docs.letta.com/letta-code)).
 - [Roo Code](https://roocode.com/) - VS Code extension and cloud agents with skills integration ([docs](https://docs.roocode.com/features/skills)).
 
@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - Agent Skills for X research and approval-gated account actions. Not affiliated with X Corp.
 
 ### Skill Marketplaces & directories
 
@@ -189,4 +190,4 @@ The most common approach is to version skills in Git (in a shared repo) and let 
 
 ## Contributing
 
-Please read our [contribution guidelines](contributing.md) before submitting changes.
+Please read our [contribution guidelines](CONTRIBUTING.md) before submitting changes.
