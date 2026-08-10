@@ -116,6 +116,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 ### Developer Tools
 
+- [Hexis](https://github.com/Bevel-Software/Hexis) - Tool: Git-backed platform for managing SKILL.md skills alongside tools and context, then sharing them with AI agents over MCP.
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
