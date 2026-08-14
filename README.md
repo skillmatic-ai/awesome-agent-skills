@@ -60,6 +60,8 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 ### Supported Platforms and IDEs
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - macOS menu bar AI agent with screen awareness. Shake cursor to summon, it sees your screen and clicks/types/drags to complete tasks.
+
 - [Claude Code](https://claude.ai/code) - Platform: Anthropic's coding tool with skills support ([docs](https://code.claude.com/docs/en/skills)).
 - [OpenAI Codex](https://developers.openai.com/codex/skills/) - Platform: OpenAI's CLI agent with skills support ([docs](https://developers.openai.com/codex/skills/)).
 - [Gemini CLI](https://geminicli.com) - Gemini in the terminal with skills support ([docs](https://geminicli.com/docs/cli/skills/)).
