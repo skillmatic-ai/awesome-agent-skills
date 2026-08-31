@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [Sketchjar/stipple-agent-skills](https://github.com/Sketchjar/stipple-agent-skills) - A collection of document-trust skills: verify document authenticity, check citations, extract grounded data, screen adverse media, find AU/NZ tenders, detect AI-written text. Built on the Stipple API (free anonymous tier).
 
 ### Skill Marketplaces & directories
 
