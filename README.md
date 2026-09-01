@@ -141,6 +141,7 @@ Evaluation frameworks and deeper technical reading.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Repository: Context-engineering reference materials.
 - [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - Repository: System skill pattern reference.
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Repository: Techniques for building reusable skill knowledge.
+- [alanhoff/agent-coordinator](https://github.com/alanhoff/agent-coordinator) - Repository: Codex skill for revisioned workflows, recovery, and checked closeout.
 
 ### Academic Papers
 - [SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents](https://arxiv.org/abs/2604.17308) (2026) - A benchmark for evaluating autonomous agents' ability to discover, repair, and maintain skills over time
