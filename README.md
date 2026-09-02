@@ -90,6 +90,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 #### Popular Collections
 
+- [daniel-ddtech/commentscraper-cli](https://github.com/daniel-ddtech/commentscraper-cli) - Two skills for customer-voice research: the Adlicio CLI workflow, and the remote Adlicio MCP server that scrapes comments and reviews from Reddit, YouTube, Amazon, TikTok, Instagram, Trustpilot and other sources.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
