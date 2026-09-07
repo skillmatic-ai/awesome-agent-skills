@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [satan9394/dsh-personal-dev-workflow](https://github.com/satan9394/dsh-personal-dev-workflow) - Bilingual (EN/CN) lean personal development workflow skill: conductor + isolated workers + verification loop, with task-card templates and a DSH plugin.
 
 ### Skill Marketplaces & directories
 
