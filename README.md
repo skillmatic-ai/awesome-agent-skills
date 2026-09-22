@@ -93,6 +93,12 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [wwewtech/chatexport-need-miner](https://github.com/wwewtech/chatexport-need-miner) - Offline Telegram chat export data miner for JTBD product discovery and user intent clustering.
+- [wwewtech/dali-short-address-commissioner](https://github.com/wwewtech/dali-short-address-commissioner) - IEC 62386 DALI / DALI-2 lighting bus commissioner and collision resolver.
+- [wwewtech/eol-resistor-calculator](https://github.com/wwewtech/eol-resistor-calculator) - Security hardware End-of-Line (EOL/DEOL/TEOL) alarm panel loop resistor calculator.
+- [wwewtech/esl-price-sync](https://github.com/wwewtech/esl-price-sync) - Electronic Shelf Labels (ESL) retail pricing synchronizer and transmission queue auditor.
+- [wwewtech/marlin-bed-leveling](https://github.com/wwewtech/marlin-bed-leveling) - Marlin 2.x 3D printer bed leveling assistant and mesh topology analyzer.
+- [wwewtech/oneroster-csv-validator](https://github.com/wwewtech/oneroster-csv-validator) - 1EdTech / IMS Global OneRoster 1.1/1.2 CSV relational validator and roster integrity checker.
 
 ### Skill Marketplaces & directories
 
