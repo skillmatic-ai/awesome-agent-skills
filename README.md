@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [YangTech-gh/Awesome-Bug-Bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty) - Bug-bounty hunting skill pack: recon methodology, vuln playbooks, payloads, business-logic checks, and tool guidance.
 
 ### Skill Marketplaces & directories
 
