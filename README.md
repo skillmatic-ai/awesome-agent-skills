@@ -79,6 +79,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 #### Top Picks
 
 - [Anthropic skills](https://github.com/anthropics/skills) - Official skills catalog from Anthropic.
+- [angles-video-skill](https://github.com/anglesvideo/angles-video-skill) - AI video generation skill for Claude Code: turns URLs/articles into polished marketing videos with AI avatars, voiceovers, and B-roll.
 - [OpenAI skills](https://github.com/openai/skills) - Official skills catalog from OpenAI.
 - [Microsoft skills](https://github.com/microsoft/skills) - Skills for AI coding agents working with Azure SDKs and Microsoft AI Foundry.
 - [Google Workspace skills](https://github.com/googleworkspace/cli) - Agent Skills for using Google Workspace products.
