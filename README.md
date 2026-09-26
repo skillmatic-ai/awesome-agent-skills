@@ -101,6 +101,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
+- [Aident Loadout (aident-skill)](https://github.com/Aident-AI/aident-skill) - Connect agents to 1,000+ apps and 400+ Skills through one MCP Loadout with Vault and Audit.
 
 ## Phase 3: Build and Integrate
 
