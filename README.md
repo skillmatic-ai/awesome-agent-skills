@@ -94,6 +94,8 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
+- [Shipvela publishing skill](https://github.com/stefanautomateed/shipvela-codex/tree/main/plugins/shipvela/skills/publish) - Account-connected website publishing with owner confirmation, deployment status and bounded logs via OAuth MCP.
+
 ### Skill Marketplaces & directories
 
 - [SkillsMP](https://skillsmp.com/) - Marketplace for discovering and sharing Agent Skills.
