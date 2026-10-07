@@ -101,6 +101,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
+- [Skilloop](https://skilloop.dev) - Preview-first Agent Skills library for Claude Code, Codex, and Cursor with real output samples.
 
 ## Phase 3: Build and Integrate
 
