@@ -85,6 +85,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Google Agent skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [Vercel skills](https://skills.sh/vercel-labs/agent-skills) - Collection of skills reflecting best practices in web development from Vercel.
 - [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
+- [Prisma skills](https://github.com/prisma/skills) - Official Agent Skills for Prisma Postgres, Prisma ORM, Prisma Client and Prisma Compute.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
 
