@@ -122,6 +122,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
+- [Prompt Optimizer](https://github.com/weisun23/prompt-optimizer) - Skill: Evaluation-driven prompt optimization for Claude Code and Codex, with deterministic scoring, failure analysis, and regression protection.
 
 ## Phase 4: Benchmarks and Research
 
