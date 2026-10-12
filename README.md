@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [wu736139669/geo-agent-skills](https://github.com/wu736139669/geo-agent-skills) - Two skills for Generative Engine Optimization — ship Markdown versions + llms.txt for AI agents, and audit AI-agent readiness with a 9-point score.
 
 ### Skill Marketplaces & directories
 
