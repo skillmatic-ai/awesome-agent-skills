@@ -131,6 +131,7 @@ Evaluation frameworks and deeper technical reading.
 
 - [huggingface/upskill](https://github.com/huggingface/upskill) - Library: Use Upskill to Generate and evaluate agent skills for code agents.
 - [benchflow-ai/SkillsBench](https://github.com/benchflow-ai/SkillsBench) - Library: Use Benchflow for Measuring skills performance on real workflows.
+- [clockhillgames/hourglyph-daily-skill](https://github.com/clockhillgames/hourglyph-daily-skill) - Skill: Free daily logic puzzle where agents and humans solve the same board over HTTP, ranked by fewest moves.
 - [Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills) - Blog: A guide for testing agent skills
 
 ### Advanced Engineering
