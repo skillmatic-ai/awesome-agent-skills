@@ -122,6 +122,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
+- [SkillTangram](https://github.com/jiangzl1986-gif/skill-workbench) - Tool: Visual workspace for inspecting Skill sources, composing nested modules, and exporting designs for agent-assisted implementation.
 
 ## Phase 4: Benchmarks and Research
 
