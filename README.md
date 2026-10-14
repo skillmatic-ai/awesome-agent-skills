@@ -113,6 +113,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - Docs: API reference for implementing skills.
 - [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4) - Tutorial: Practical walkthrough for building custom skills.
 - [Claude Agent Skills Tutorial](https://www.youtube.com/watch?v=fOxC44g8vig) - Video: End-to-end walkthrough with examples.
+- [DiPlay Helper live-guide example](https://github.com/UllrAI/diplay-helper/tree/main/skills/diplay-helper) - Example: A DiPlay setup Skill that reads live task-specific Markdown, with optional read-only MCP lookups.
 
 ### Developer Tools
 
