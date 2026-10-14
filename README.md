@@ -118,6 +118,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
+- [awesome-submit](https://github.com/LIghtJUNction/awesome-submit) - Skill: Submit projects to relevant awesome lists with eligibility checks, duplicate detection, and verified GitHub pull requests.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
