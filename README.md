@@ -90,6 +90,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 
 #### Popular Collections
 
+- [Fillfolio portfolio MCP skills](https://github.com/fillfolio/portfolio-mcp-skills) - Read-only workflows for stored portfolio, holdings, cash, spending and budget reviews through an authorized Fillfolio MCP connection; financial workflows require eligible account access.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
