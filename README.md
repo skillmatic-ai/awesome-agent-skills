@@ -91,6 +91,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 #### Popular Collections
 
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
+- [Opsibyte Agent Skills](https://github.com/MelMayssonOwen/agent-skills) - MIT SKILL.md skills for social scheduling, SEO blog drafts, product launches, listing-copy checks, and music practice, with human approval steps.
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
