@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday) - Self-custodial Layer-1 `DOOM` & Base Mainnet `wDOOM` agent skill (`SKILL.md`) and MCP server for replay-proof agent-to-agent crypto invoicing, PoW mining, and GitHub bounty Proof-of-Escrow verification.
 
 ### Skill Marketplaces & directories
 
