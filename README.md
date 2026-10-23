@@ -94,6 +94,10 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
+#### Individual Skills
+
+- [Longshot](https://github.com/jongos/Longshot) - A skill for reviewing rendered UI journeys with reproducible evidence, recovery checks, and testable recommendations.
+
 ### Skill Marketplaces & directories
 
 - [SkillsMP](https://skillsmp.com/) - Marketplace for discovering and sharing Agent Skills.
