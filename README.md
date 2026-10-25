@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### Skill Marketplaces & directories
 
