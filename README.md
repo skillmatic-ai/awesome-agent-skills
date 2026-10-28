@@ -93,6 +93,10 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [jangtrinh/design-os](https://github.com/jangtrinh/design-os) - Free, source-available (PolyForm Shield) design CLI and skills for Claude Code, Codex and Antigravity, with deterministic verification gates.
+- [DESIGN:OS Bridge](https://github.com/jangtrinh/design-os-figma-plugin) - Free, source-available (PolyForm Shield) skills, plugin and CLI that let agents read and edit the design file open in Figma Desktop.
+- [jangtrinh/design-os-svg-animation](https://github.com/jangtrinh/design-os-svg-animation) - Free, source-available (PolyForm Shield) skills for deterministic vector animation and 1080p 60fps video.
+- [jangtrinh/design-os-code2flow](https://github.com/jangtrinh/design-os-code2flow) - Free, source-available (PolyForm Shield) skills that turn a Next.js codebase into a Mermaid user-flow graph and UX gap audit.
 
 ### Skill Marketplaces & directories
 
