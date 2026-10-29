@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) - Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn and a local SQLite memory vault.
 
 ### Skill Marketplaces & directories
 
