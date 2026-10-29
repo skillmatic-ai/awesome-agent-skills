@@ -101,6 +101,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
+- [Swarmnest Agent Skills](https://swarmnest.ai/agent-skills/) - Directory of 545 Agent Skills, plugin bundles and AGENTS.md templates with platform compatibility labels.
 
 ## Phase 3: Build and Integrate
 
