@@ -122,6 +122,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
+- [multi-llm](https://github.com/beastlabai/multi-llm-plugin) - Plugin and SKILL.md workflow for parallel plan reviews, task generation, implementation, and code reviews across coding CLIs.
 
 ## Phase 4: Benchmarks and Research
 
