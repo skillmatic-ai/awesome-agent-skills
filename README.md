@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [signbee/skill](https://github.com/signbee/skill) - Document signing Agent Skill and MCP server (`npx -y signbee-mcp`) for sending Markdown or PDF contracts for two-party e-signing with SHA-256 certified audit trails.
 
 ### Skill Marketplaces & directories
 
