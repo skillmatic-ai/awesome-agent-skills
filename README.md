@@ -122,6 +122,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
+- [deja-vu](https://github.com/vshulcz/deja-vu) - Tool: Local session memory CLI, MCP server, and `SKILL.md` package for searching past sessions across 43 AI coding agents.
 
 ## Phase 4: Benchmarks and Research
 
