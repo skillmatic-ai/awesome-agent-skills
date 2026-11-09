@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [Arcmira research skills](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills) - YouTube transcript search and monitoring for your AI. [Arcmira](https://arcmira.com/) understands YouTube and podcasts like it watched them: the exact quote, often who said it, the full transcript and sponsors. [API docs](https://arcmira.com/docs).
 
 ### Skill Marketplaces & directories
 
