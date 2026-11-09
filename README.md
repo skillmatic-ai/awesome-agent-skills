@@ -101,6 +101,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
+- [AIGrowthRank](https://aigrowthrank.com/en/skills/) - Directory of marketing and sales Agent Skills, each with a passive review of its public code and a trust level.
 
 ## Phase 3: Build and Integrate
 
