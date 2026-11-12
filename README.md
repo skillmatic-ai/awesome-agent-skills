@@ -87,6 +87,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Supabase skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase.
 - [Hugging Face skills](https://github.com/huggingface/skills) - Community skills catalog with broad compatibility.
 - [OpenClaw skills](https://www.clawhub.ai/skills) - Skills for OpenClow agents (formerly Clawd and Moltbot).
+- [GoVisit Toolkit](https://github.com/inhotel-io/govisit-toolkit) - 22 Agent Skills for discovering GoVisit destinations and places and reading published travel data.
 
 #### Popular Collections
 
