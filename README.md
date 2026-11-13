@@ -94,6 +94,10 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
 
+#### Media Creation
+
+- [Kling AI Plugin Skill (Global)](https://www.npmjs.com/package/@klingai/plugin-global) / [China](https://www.npmjs.com/package/@klingai/plugin-cn) - Official `kling-ai-plugin` Skill and CLI for images, videos, and task tracking; regional OAuth accounts and credits required.
+
 ### Skill Marketplaces & directories
 
 - [SkillsMP](https://skillsmp.com/) - Marketplace for discovering and sharing Agent Skills.
