@@ -93,6 +93,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [Maor-404/lemo-opuscar-for-agents](https://github.com/Maor-404/lemo-opuscar-for-agents) - 99 code-rendered film & motion-graphics styles (`SKILL.md` + npm CLI) with Canvas 2D, WebGL2, and WebGPU support for Antigravity, Gemini CLI, Codex CLI, OpenCode, GitHub Copilot, and Claude Code (fork of `lemomo-ai/lemo-opuscar`).
 
 ### Skill Marketplaces & directories
 
