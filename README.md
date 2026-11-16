@@ -93,6 +93,16 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A collection of Agent Skills for context engineering (from Anthropic).
 - [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) - A collection of AI/ML research and engineering skills.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - A collection of PM Skills
+- [instax-dutta/darpa-audit](https://github.com/instax-dutta/darpa-audit) - Gate a startup idea with the Heilmeier Catechism and a survives/killed verdict.
+- [instax-dutta/master-pitcher](https://github.com/instax-dutta/master-pitcher) - Audit, draft or roast a pitch deck against a VC's 3-minute scan, scored out of 18.
+- [instax-dutta/google-code-review](https://github.com/instax-dutta/google-code-review) - Google's published code review standard in reviewer and author modes.
+- [instax-dutta/market-validator](https://github.com/instax-dutta/market-validator) - Validate an idea from real complaints across 10+ platforms and score the opportunity.
+- [instax-dutta/flash-compare](https://github.com/instax-dutta/flash-compare) - Product comparison that checks marketing claims against OEM specs and owner reports.
+- [instax-dutta/dox-init](https://github.com/instax-dutta/dox-init) - Bootstrap a DOX AGENTS.md hierarchy with purpose, ownership and child indexes.
+- [instax-dutta/finetune-llm](https://github.com/instax-dutta/finetune-llm) - Verification-gated LLM fine-tuning against measured VRAM budgets.
+- [instax-dutta/vibe-abliteration](https://github.com/instax-dutta/vibe-abliteration) - Heretic abliteration with a deliberate refusals-versus-KL trade-off.
+- [instax-dutta/scroll-3d-world](https://github.com/instax-dutta/scroll-3d-world) - Scroll-scrubbed Three.js fly-through landing page with no AI video.
+- [instax-dutta/brand-vibes](https://github.com/instax-dutta/brand-vibes) - Apply a company's design language as semantic tokens for Tailwind, CSS or shadcn.
 
 ### Skill Marketplaces & directories
 
