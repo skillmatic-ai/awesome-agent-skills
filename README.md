@@ -118,6 +118,7 @@ Guides and tools for authoring, validating, and distributing skills.
 
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
+- [Camera Prompt QuickCheck](https://github.com/287523023qq-hue/camera-prompt-quickcheck) - Tool: Zero-API Python pre-flight linter & `SKILL.md` validator auditing AI video camera prompts across 6 deterministic physics rules (`C01`–`C06`).
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
