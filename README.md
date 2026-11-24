@@ -101,6 +101,7 @@ Platforms that support skills today, plus ready-to-use skill catalogs.
 - [Skillstore](https://skillstore.io/) - Curated marketplace for Agent Skills.
 - [SkillsDirectory](https://www.skillsdirectory.org/) - Directory of popular Agent Skills.
 - [skills.sh](https://skills.sh/) - A directory and leaderboard for Agent Skills.
+- [OpxSkills](https://www.opxskills.com/) - Curated directory of portable `SKILL.md` skills with quality scoring, one-line installs, and an online `SKILL.md` validator.
 
 ## Phase 3: Build and Integrate
 
@@ -119,6 +120,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Docs: Implementing skills in LangChain.
 - [SkillCheck](https://github.com/agentigy/skillcheck) - Tool: Scanner for common risks in skill packages.
 - [OpenSkills](https://github.com/numman-ali/openskills) - Tool: Universal loader for integrating skills with many agents.
+- [opxskills](https://github.com/alvintclam/opxskills) - Tool: Zero-dependency CLI (`add`, `search`, `validate`) and client-side `SKILL.md` validator/generator for Claude Code, Cursor, Codex CLI, and Gemini CLI.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
