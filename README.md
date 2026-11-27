@@ -122,6 +122,7 @@ Guides and tools for authoring, validating, and distributing skills.
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Framework: Agent harness with a skills-oriented workflow.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Tool: Skill and CLI for Claude Code, Cursor and Codex that checks formal properties and requires recorded review evidence before a run can finish.
 
 ## Phase 4: Benchmarks and Research
 
